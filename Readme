@@ -3,3 +3,5 @@
 2- Luego navegar hasta la carpeta bd y ejecutar en una base de datos sql server los dos scrpts que se encuentran alli
 
 3- una vez que la base de datos haya sido instalada solo debe ejecutar el proyecto y se abrirá en el navegador
+
+4 - Para agregar la base de datos debe dar click derecho sobre Referencias en el proyecto desde visual studio 2019 y buscar la base de datos sql server
